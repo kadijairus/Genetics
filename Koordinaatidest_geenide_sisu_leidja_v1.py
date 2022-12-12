@@ -22,8 +22,12 @@ print(f'Hakkan otsima geene failis {tooleht}')
 
 # Koordinaatidega fail, millele vaja lisada geeniandmed
 #tooleht = 'Tooleht.xlsx'
+#https://omim.org/downloads
+#Johns Hopkins University holds the copyright to OMIM including the collective data therein.
 omim = 'mim2gene.txt'
 morbid = 'morbidmap.txt'
+# https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_42/
+# https://www.gencodegenes.org/pages/data_format.html
 gtf_fail = 'gencode.v42.chr_patch_hapl_scaff.basic.annotation.gtf'
 
 print("Programm alustas tööd, palun oota...")
