@@ -23,7 +23,7 @@ print(f'Hakkan otsima geene failis {tooleht}')
 # Koordinaatidega fail, millele vaja lisada geeniandmed
 #tooleht = 'Tooleht.xlsx'
 #https://omim.org/downloads
-#Johns Hopkins University holds the copyright to OMIM including the collective data therein.
+# Copyright (c) 1966-2022 Johns Hopkins University. Use of this file adheres to the terms specified at https://omim.org/help/agreement
 omim = 'mim2gene.txt'
 morbid = 'morbidmap.txt'
 # https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_42/
